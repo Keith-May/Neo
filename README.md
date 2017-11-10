@@ -2,5 +2,5 @@
 Repository for project Neo
 Planing for stage one
 
-Code starts her
+Code starts here
 End
