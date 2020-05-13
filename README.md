@@ -1,6 +1,8 @@
 # Neo
 Repository for The Matrix project
-Planing for stage one
+
+Work Plan
+
 
 Code starts here
 End
