@@ -1,5 +1,5 @@
 # Neo
-Repository for project Neo
+Repository for The Matrix project
 Planing for stage one
 
 Code starts here
